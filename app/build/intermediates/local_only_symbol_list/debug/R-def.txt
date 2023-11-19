@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable cat
+drawable chicken
+drawable cow
+drawable dog
+drawable duck
+drawable ic_cat
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable obezyana
+drawable sheep
+drawable slon
+id image_cat
+id image_chicken
+id image_cow
+id image_dog
+id image_duck
+id image_obezyana
+id image_sheep
+id image_slon
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Pr25Ovchinnikov
+style Theme.Pr25Ovchinnikov
+xml backup_rules
+xml data_extraction_rules
